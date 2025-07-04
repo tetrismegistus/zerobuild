@@ -1,0 +1,16 @@
+body {
+  background-color: #0c0c0c;
+  color: #eaeaea;
+  font-family: 'EB Garamond', serif;
+  max-width: 60ch;
+  margin: 5vh auto;
+  padding: 0 1rem;
+  line-height: 1.6;
+}
+
+h1 {
+  font-style: italic;
+  font-size: 2em;
+  margin-bottom: 1em;
+}
+
