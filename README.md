@@ -80,8 +80,8 @@ Your content here...
 
 ## 🧠 Philosophy
 
-In my beginning is my end.
-— T.S. Eliot, and now you
+> In my beginning is my end.
+> — T.S. Eliot, and now you
 
 This project values:
 
